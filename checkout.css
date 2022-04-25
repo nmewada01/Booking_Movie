@@ -1,0 +1,31 @@
+#user-detail{
+    text-align: center;
+
+}
+#movie{
+   
+   text-align: center;
+}
+#wallet{
+ color:red;
+}
+#confirm{
+    padding:8px;
+    border-radius: 10px;
+}
+#confirm:hover{
+    background-color: crimson;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+
+#user_name{
+    font-size: 20px;
+    
+
+}
+#number_of_seats{
+    font-size: 20px;
+}
+

@@ -1,0 +1,32 @@
+#wallet{
+    color:red;
+}
+a{
+    text-decoration: none;
+    color: lawngreen;
+}
+#book_movies{
+    padding:8px;
+    border-radius: 10px;
+}
+#book_movies:hover{
+    background-color: crimson;
+    padding: 10px;
+    margin-left: 5px;
+}
+#add_to_wallet{
+    padding:8px;
+    border-radius: 10px;
+}
+#add_to_wallet:hover{
+    background-color: crimson;
+    padding: 10px;
+    margin-left: 5px;
+}
+
+#amount{
+    font-size: 20px;
+    
+
+}
+
